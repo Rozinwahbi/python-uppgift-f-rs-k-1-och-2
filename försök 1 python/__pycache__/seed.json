@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Buy groceries",
+      "mission": "Go to the supermarket and buy some fruits, vegetables and milk"
+    },
+    {
+      "name": "Clean the house",
+      "mission": "Vacuum the floor, clean the bathroom and wash the dishes"
+    },
+    {
+      "name": "Do laundry",
+      "mission": "Wash and dry the clothes, fold and put them away"
+    },
+    {
+      "name": "Pay bills",
+      "mission": "Check the bills, write checks or transfer money online and file the receipts"
+    },
+    {
+      "name": "Study for exam",
+      "mission": "Review the notes, read the textbook and practice answering questions"
+    }
+  ]
+  

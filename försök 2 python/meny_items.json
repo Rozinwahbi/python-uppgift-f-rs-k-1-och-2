@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Cheeseburger",
+        "description": "A classic cheeseburger",
+        "price": 9.99,
+        "category": "Burgers"
+    },
+    {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "description": "Fresh mozzarella, tomatoes, and basil",
+        "price": 12.99,
+        "category": "Pizzas"
+    },
+    {
+        "id": 3,
+        "name": "Caesar Salad",
+        "description": "Romaine lettuce, croutons, and parmesan cheese",
+        "price": 7.99,
+        "category": "Salads"
+    },
+    {
+        "id": 4,
+        "name": "Spaghetti Bolognese",
+        "description": "Spaghetti with meat sauce",
+        "price": 11.99,
+        "category": "Pastas"
+    }
+]
